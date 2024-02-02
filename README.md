@@ -4,4 +4,4 @@ Studied and Analyzed the Naval Vessel dataset to applying ML models and present 
 
 COLAB NOTEBOOK LINK: https://colab.research.google.com/drive/1a5igXQUlcagf5USFAeSxf-JuDuUZqy9Z#scrollTo=vygtZAJZPsGr
 
-PRESENTATION LINK: https://drive.google.com/file/d/1Y4udDf2-5EVRzFOaMR6CebnMhKpU2knc/view?usp=sharing
+PDF LINK: https://drive.google.com/file/d/1Y4udDf2-5EVRzFOaMR6CebnMhKpU2knc/view?usp=sharing
